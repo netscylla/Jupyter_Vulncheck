@@ -2,7 +2,7 @@
 Collection of Jupyter notebooks to carve out monthy vendor vulnerability information
 
 ## AWS Vulnerability Report
-* [AWS Public Vulnerability Report](https://nbviewer.jupyter.org/github/netscylla/Jupyter_Vulncheck/blob/master/AWS Vulnerability Report.ipynb)
+* [AWS Vulnerabillity Report](https://nbviewer.jupyter.org/github/netscylla/Jupyter_Vulncheck/blob/master/AWS%20Vulnerability%20Report.ipynb)
 ## Cisco Monthly Vulnerability List
 * [Cisco Public Vulnerability Report](https://nbviewer.jupyter.org/github/netscylla/Jupyter_Vulncheck/blob/master/Cisco%20Public%20Vulnerability%20Feed.ipynb) 
 ## Microsoft Monthly Vulnerability List
