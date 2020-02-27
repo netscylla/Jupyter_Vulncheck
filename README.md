@@ -1,6 +1,9 @@
 # Jupyter_Vulncheck
 Collection of Jupyter notebooks to carve out monthy vendor vulnerability information
 
+## Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/netscylla/Jupyter_Vulncheck/master)
+
 ## AWS Vulnerability Report
 * [AWS Vulnerabillity Report](https://nbviewer.jupyter.org/github/netscylla/Jupyter_Vulncheck/blob/master/AWS%20Vulnerability%20Report.ipynb)
 ## Cisco Monthly Vulnerability List
